@@ -34,7 +34,7 @@ The application was developed collaboratively by a two-person team using:
 
 My contributions focused primarily on NestJS APIs, PostgreSQL/PostGIS
 geospatial search, JWT-based authentication and authorization,
-NLP-based search classification using TF-IDF and Naive Bayes classifiers trained in Python
+NLP-based search classification using TF-IDF and Naive Bayes classifiers trained in Python,
 automated backend tests, and selected mobile features.
 
 ## 🛠️ Tech Stack
