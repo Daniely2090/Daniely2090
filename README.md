@@ -19,8 +19,9 @@ to mobile user experiences.
 
 ### 🏆 [Jewish On The Way](https://github.com/Merylhassid/jewish_on_the_way)
 
-An award-winning, multilingual mobile application helping Jewish travelers
-discover kosher restaurants, synagogues, minyans and Shabbat hosting worldwide.
+Officially recognized as an Outstanding Final Project at SCE,
+Jewish On The Way is a mobile application helping Jewish travelers discover kosher restaurants,
+synagogues, minyans and Shabbat hosting worldwide.
 
 The application was developed collaboratively by a two-person team using:
 
