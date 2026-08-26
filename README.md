@@ -27,11 +27,6 @@ Software engineering graduate (SCE) focused on backend and full-stack developmen
 
 **Database:** PostgreSQL, PostGIS, TypeORM
 
-**Testing & Infrastructure:** Jest, Supertest, Docker, Linux, Git
-
-## Additional Academic Project
-
-[FlightBookingProject](https://github.com/Daniely2090/FlightBookingProject) — an academic project built by a team of five students: a full-stack flight booking system (React, Node.js/Express, PostgreSQL, Docker).
 
 ## Contact
 
