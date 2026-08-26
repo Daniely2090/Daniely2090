@@ -19,7 +19,8 @@ to mobile user experiences.
 
 ### 🏆 [Jewish On The Way](https://github.com/Merylhassid/jewish_on_the_way)
 
-Officially recognized as an Outstanding Final Project at SCE,
+Officially recognized as an Outstanding Final Project at SCE, 
+
 Jewish On The Way is a mobile application helping Jewish travelers discover kosher restaurants,
 synagogues, minyans and Shabbat hosting worldwide.
 
