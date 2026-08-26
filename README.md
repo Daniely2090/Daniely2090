@@ -6,14 +6,14 @@ Software Engineering Graduate | Full-Stack Developer
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineering graduate with hands-on experience developing
-a full-stack mobile application, from PostgreSQL data modeling and NestJS
-REST APIs to React Native user experiences.
+I'm a Software Engineering graduate with hands-on experience building
+an end-to-end application — from data modeling and backend APIs to
+mobile user experiences.
 
 - 🏆 Co-developed **Jewish On The Way**, officially recognized as an Outstanding Final Project at SCE
 - ⚙️ Interested in backend development, system design, and secure application development
-- 🌱 Currently strengthening my JavaScript, TypeScript, and backend development skills
-- 💼 Looking for a Junior Software, Full-Stack, or Backend Developer opportunity
+- 🌱 Interested in continuing to grow in backend development, software testing, and cloud technologies
+- 💼 Looking for a Junior Software Developer role, particularly in Backend or Full-Stack development
 - 📍 Based in Israel
 
 ## 🌍 Featured Project
@@ -21,6 +21,7 @@ REST APIs to React Native user experiences.
 ### 🏆 [Jewish On The Way](https://github.com/Merylhassid/jewish_on_the_way)
 
 Officially recognized as an Outstanding Final Project at SCE,
+
 Jewish On The Way is a cross-platform mobile application that helps
 Jewish travelers discover kosher restaurants, synagogues, minyans,
 and Shabbat hosting worldwide.
