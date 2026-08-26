@@ -1,33 +1,49 @@
-# Daniel Yehudai
+<h1 align="center">Hi 👋, I'm Daniel Yehudai</h1>
 
-**Software Engineering Graduate | Backend & Full-Stack Developer**
+<h3 align="center">
+Software Engineering Graduate | Backend & Full-Stack Developer
+</h3>
 
-## About Me
+## 👨‍💻 About Me
 
-Software engineering graduate (SCE) focused on backend and full-stack development. I enjoy building complete systems — from data modeling and APIs to the client experience that consumes them.
+I enjoy building complete applications — from databases and backend APIs
+to mobile user experiences.
 
-## Featured Project: Jewish On The Way (JOW)
+- 🏆 Co-developed **Jewish On The Way**, officially recognized as an Outstanding Final Project at SCE
+- ⚙️ Interested in backend development, system architecture and application security
+- 🌱 Currently improving my DevOps and cloud deployment skills
+- 💼 Looking for a Junior Backend / Full-Stack Developer opportunity
+- 📍 Based in Israel
 
-[Jewish On The Way](https://github.com/Merylhassid/jewish_on_the_way) is a mobile platform for Jewish travelers, developed in collaboration with a fellow developer. It helps users find kosher restaurants, synagogues, minyan listings, and host communities. Recognized as an outstanding final project at SCE.
+## 🌍 Featured Project
 
-### My Primary Contributions
+### 🏆 [Jewish On The Way](https://github.com/Merylhassid/jewish_on_the_way)
 
-- NestJS/TypeScript backend development
-- PostgreSQL/PostGIS geospatial search
-- Search classification and evaluation pipeline
-- Authentication, security hardening and rate limiting
-- Automated backend testing
-- Contributions to the React Native mobile application
+An award-winning, multilingual mobile application helping Jewish travelers
+discover kosher restaurants, synagogues, minyans and Shabbat hosting worldwide.
 
-## Technical Skills
+The application was developed collaboratively by a two-person team using:
 
-**Backend:** TypeScript, Node.js, NestJS, REST APIs, Socket.IO, JWT
+`TypeScript` · `NestJS` · `React Native` · `Expo` · `PostgreSQL` ·
+`PostGIS` · `TypeORM` · `Socket.IO` · `Jest`
 
-**Mobile:** React Native, Expo
+My work focused primarily on backend development, geospatial search,
+search classification, application security, automated testing and
+production deployment, alongside contributions to the mobile application.
 
-**Database:** PostgreSQL, PostGIS, TypeORM
+## 🛠️ Tech Stack
 
+`TypeScript` · `Node.js` · `NestJS` · `React Native` · `Expo` ·
+`PostgreSQL` · `PostGIS` · `TypeORM` · `Socket.IO` · `Jest` ·
+`Docker` · `Linux` · `Git`
 
-## Contact
+## 🤝 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/daniel-yehudai-30a454318/) · [Email](mailto:daniyehudai@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/daniel-yehudai-30a454318/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:daniyehudai@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
