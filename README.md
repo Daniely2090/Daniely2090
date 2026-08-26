@@ -19,6 +19,8 @@ mobile user experiences.
 
 ### 🏆 [Jewish On The Way](https://github.com/Merylhassid/jewish_on_the_way)
 
+🌐 **Project Website:** [jewishontheway.com](https://www.jewishontheway.com/)
+
 Officially recognized as an Outstanding Final Project at SCE.
 
 Jewish On The Way is a cross-platform mobile application that helps
