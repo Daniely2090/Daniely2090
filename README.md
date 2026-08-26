@@ -17,7 +17,6 @@ Software engineering graduate (SCE) focused on backend and full-stack developmen
 - Search classification and evaluation pipeline
 - Authentication, security hardening and rate limiting
 - Automated backend testing
-- Linux production deployment and operational tooling
 - Contributions to the React Native mobile application
 
 ## Technical Skills
