@@ -1,43 +1,45 @@
 <h1 align="center">Hi 👋, I'm Daniel Yehudai</h1>
 
 <h3 align="center">
-Software Engineering Graduate | Backend & Full-Stack Developer
+Software Engineering Graduate | Full-Stack Developer
 </h3>
 
 ## 👨‍💻 About Me
 
-I enjoy building complete applications — from databases and backend APIs
-to mobile user experiences.
+I'm a Software Engineering graduate with hands-on experience developing
+a full-stack mobile application, from PostgreSQL data modeling and NestJS
+REST APIs to React Native user experiences.
 
 - 🏆 Co-developed **Jewish On The Way**, officially recognized as an Outstanding Final Project at SCE
-- ⚙️ Interested in backend development, system architecture and application security
-- 🌱 Currently improving my DevOps and cloud deployment skills
-- 💼 Looking for a Junior Backend / Full-Stack Developer opportunity
+- ⚙️ Interested in backend development, system design, and secure application development
+- 🌱 Currently strengthening my JavaScript, TypeScript, and backend development skills
+- 💼 Looking for a Junior Software, Full-Stack, or Backend Developer opportunity
 - 📍 Based in Israel
 
 ## 🌍 Featured Project
 
 ### 🏆 [Jewish On The Way](https://github.com/Merylhassid/jewish_on_the_way)
 
-Officially recognized as an Outstanding Final Project at SCE, 
-
-Jewish On The Way is a mobile application helping Jewish travelers discover kosher restaurants,
-synagogues, minyans and Shabbat hosting worldwide.
+Officially recognized as an Outstanding Final Project at SCE,
+Jewish On The Way is a cross-platform mobile application that helps
+Jewish travelers discover kosher restaurants, synagogues, minyans,
+and Shabbat hosting worldwide.
 
 The application was developed collaboratively by a two-person team using:
 
 `TypeScript` · `NestJS` · `React Native` · `Expo` · `PostgreSQL` ·
 `PostGIS` · `TypeORM` · `Socket.IO` · `Jest`
 
-My work focused primarily on backend development, geospatial search,
-search classification, application security, automated testing and
-production deployment, alongside contributions to the mobile application.
+My contributions focused primarily on NestJS APIs, PostgreSQL/PostGIS
+geospatial search, JWT-based authentication and authorization,
+NLP-based search classification using TF-IDF and Naive Bayes,
+automated backend tests, and selected mobile features.
 
 ## 🛠️ Tech Stack
 
-`TypeScript` · `Node.js` · `NestJS` · `React Native` · `Expo` ·
-`PostgreSQL` · `PostGIS` · `TypeORM` · `Socket.IO` · `Jest` ·
-`Docker` · `Linux` · `Git`
+`TypeScript` · `JavaScript` · `Python` · `Node.js` · `NestJS` ·
+`React Native` · `Expo` · `PostgreSQL` · `PostGIS` · `TypeORM` ·
+`Socket.IO` · `Jest` · `Git`
 
 ## 🤝 Connect with Me
 
