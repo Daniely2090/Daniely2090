@@ -12,7 +12,6 @@ mobile user experiences.
 
 - 🏆 Co-developed **Jewish On The Way**, officially recognized as an Outstanding Final Project at SCE
 - ⚙️ Interested in backend development, system design, and secure application development
-- 🌱 Interested in continuing to grow in backend development, software testing, and cloud technologies
 - 💼 Looking for a Junior Software Developer role, particularly in Backend or Full-Stack development
 - 📍 Based in Israel
 
@@ -20,7 +19,7 @@ mobile user experiences.
 
 ### 🏆 [Jewish On The Way](https://github.com/Merylhassid/jewish_on_the_way)
 
-Officially recognized as an Outstanding Final Project at SCE,
+Officially recognized as an Outstanding Final Project at SCE.
 
 Jewish On The Way is a cross-platform mobile application that helps
 Jewish travelers discover kosher restaurants, synagogues, minyans,
@@ -28,12 +27,12 @@ and Shabbat hosting worldwide.
 
 The application was developed collaboratively by a two-person team using:
 
-`TypeScript` · `NestJS` · `React Native` · `Expo` · `PostgreSQL` ·
+`TypeScript` · `Python` · `NestJS` · `React Native` · `Expo` · `PostgreSQL` ·
 `PostGIS` · `TypeORM` · `Socket.IO` · `Jest`
 
 My contributions focused primarily on NestJS APIs, PostgreSQL/PostGIS
 geospatial search, JWT-based authentication and authorization,
-NLP-based search classification using TF-IDF and Naive Bayes,
+NLP-based search classification using TF-IDF and Naive Bayes classifiers trained in Python
 automated backend tests, and selected mobile features.
 
 ## 🛠️ Tech Stack
